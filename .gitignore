@@ -1,4 +1,5 @@
 /.idea
 /logs
 /data
+/learn_torch/dataset/
 /logs_*
