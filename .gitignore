@@ -1,4 +1,10 @@
 /.idea
 /logs
 /data
+/learn_torch/dataset/
+/learn_torch/data/
+/learn_torch/dataloader/
+/learn_torch/p10/
 /logs_*
+/learn_torch/.*/
+/Jupyter/.*/
